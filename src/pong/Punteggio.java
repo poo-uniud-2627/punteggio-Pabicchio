@@ -26,7 +26,7 @@ public class Punteggio {
 
     private int puntiSinistra = 0;
     private int puntiDestra = 0;
-    private boolean finita = 0;
+    private boolean finita = false;
     private Lato vincitore = null;
 
     /**
